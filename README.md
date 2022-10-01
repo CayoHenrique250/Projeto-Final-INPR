@@ -24,11 +24,14 @@
 
 ##
 
-- 👨‍💻 Código: 
+- 👨‍💻 <b>Código:</b>
 
-<p></p>
+<p>https://drive.google.com/file/d/1EAvY8kw2wVDyQFpMNVd-WLV3qcBaoKTz/view?usp=drivesdk</p>
 
-- 🖼 Slides:
+- 🖼 <b>Slides:</b> 
 
-<p></p>
+<p>https://drive.google.com/file/d/1DlvmeFoRm95SN1z3r3KG8Yqe7RmOCeg7/view?usp=drivesdk</p>
 
+##
+
+<h1>Bom, é isso. espero que tenha gostado!</h1>
